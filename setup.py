@@ -28,7 +28,7 @@ setup(
     packages=find_packages(),
     author=["UWRobotLearningLab"],
     author_email=["rosario@cs.uw.edu"],
-    url="http://github.com/UWRobotLearning/JFT0_Franka",
+    url="http://github.com/UWRobotLearning/JFT0-Franka",
     install_requires=requirements,
     extras_require={"dev": dev_requirements},
 )
