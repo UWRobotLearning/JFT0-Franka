@@ -2,6 +2,7 @@
 Just Fork This! (L0) for the Franka Emika Panda
 
 This repo provides a common starting point for robot learning and includes an example in each of the key components found in a typical project.
+
 **Note:** Each slot can be easily swapped out e.g. using another optimization library or another kind of env.
 | **_Category_**                      | **_Example Provided_**                                               |
 |-------------------------------------|---------------------------------------------------------------------|
