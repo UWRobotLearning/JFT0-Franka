@@ -1,8 +1,9 @@
 # JFT0-Franka
 Just Fork This! (L0) for the Franka Emika Panda
 
-This repo provides a good starting point including the following dimensions:
-| **_Category_**                      | **_Example in Slot_**                                               |
+This repo provides a common starting point for robot learning and includes an example in each of the key components found in a typical project.
+**Note:** Each slot can be easily swapped out e.g. using another optimization library or another kind of env.
+| **_Category_**                      | **_Example Provided_**                                               |
 |-------------------------------------|---------------------------------------------------------------------|
 | **Configuration**                   | `@dataclasses`                                                      |
 | **Environments**                    | [Isaac-Sim](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim.html) / [Orbit](https://github.com/NVIDIA-Omniverse/Orbit)                                                                  |
@@ -18,7 +19,7 @@ From [Nvidia Ominiverse Installation](https://docs.omniverse.nvidia.com/prod_ins
 1. Right click on AppImage, then go to properties tab, then select "allow file to execute as program".
 2. Log in to Nvidia Account.
 3. Follow prompts (install nucleus and cache).
-4. Go to "Exhcange" tab in Ominiverse launcher and type "Isaac Sim".
+4. Go to "Exchange" tab in Ominiverse launcher and type "Isaac Sim".
 5. Install Isaac Sim. Currently newest version is 2022.2.0
 
 ### 2. Creating Isaac-Sim Conda Env 
