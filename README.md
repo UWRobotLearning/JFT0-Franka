@@ -1,5 +1,6 @@
 # JFT0-Franka
 Just Fork This! (L0) for the Franka Emika Panda
+
 This repo provides a good starting point including the following dimensions:
 | **_Category_**                      | **_Example in Slot_**                                               |
 |-------------------------------------|---------------------------------------------------------------------|
