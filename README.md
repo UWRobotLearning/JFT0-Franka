@@ -13,10 +13,12 @@ From [Nvidia Ominiverse Installation](https://docs.omniverse.nvidia.com/prod_ins
 5. Install Isaac Sim. Currently newest version is 2022.2.0
 
 ## 2. Creating Isaac-Sim Conda Env (rather than running with python dist from Isaac download)
+```
 cd ~/.local/share/ov/pkg/isaac_sim*
 conda env create -f environment.yml
 activate isaac-sim
 source setup_conda_env.sh
+```
 
 ### Guides
 Coming soon:
